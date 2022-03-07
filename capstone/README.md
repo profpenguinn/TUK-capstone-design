@@ -1,4 +1,4 @@
-# RPiPetFeeder
-Pet Feeder by Raspberry Pi
+# RPi home-IoT Care Service
+Preventing danger for elderly, alone people by Raspberry Pi Sernsor.
 
-I made this from [miguelgrinberg/flask-video-streaming](https://github.com/miguelgrinberg/flask-video-streaming).
+2022 TUK Capstone Design
